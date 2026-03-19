@@ -1,1 +1,1 @@
-10/F5-0011/09/2553236/253,1,19.45594625725984, -99.08356621798276,0,13,I,Centro de Almacenamiento y TransformaciÃ³n     ^
+10/F5-0011/09/2553236/253,1,19.45594625725984, -99.08356621798276,0,13,I,Centro de Almacenamiento y transformación     ^
